@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PokeOpenInfo</string>
+    <string name="pokemon_extra_key">POKEMON_EXTRA_KEY</string>
+</resources>
